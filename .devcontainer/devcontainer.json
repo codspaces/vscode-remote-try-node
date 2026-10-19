@@ -32,6 +32,9 @@
 		"3000": {
 			"label": "Hello Remote World",
 			"onAutoForward": "notify"
+		},
+		"3003": {
+			"label": "Three"
 		}
 	},
 
